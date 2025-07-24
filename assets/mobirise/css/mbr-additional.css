@@ -1668,29 +1668,6 @@ a {
   -khtml-user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
-.cid-uRRKzwfGBd {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-uRRKzwfGBd .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uRRKzwfGBd .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uRRKzwfGBd .row {
-  flex-direction: row-reverse;
-}
-.cid-uRRKzwfGBd .mbr-description {
-  text-align: left;
-}
 .cid-uLQdcfzUUz {
   padding-top: 75px;
   padding-bottom: 75px;
